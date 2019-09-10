@@ -1,0 +1,20 @@
+.Form{
+    margin-top: 45px;
+}
+
+#taskLabel{
+    display: block;
+}
+
+#newTask{
+    display: inline-block;
+    width: 70%;
+}
+
+#submit {
+    width: 75px;
+    display: inline-block !important;
+    margin: 10px 10px;  
+    cursor: pointer;
+ }
+ 

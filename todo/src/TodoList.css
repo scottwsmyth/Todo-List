@@ -1,0 +1,20 @@
+hr{
+    border-color: white;
+}
+
+.card{
+    line-height: 0.5rem !important;
+    height: auto;
+    width: 700px;
+    margin: 50px auto;
+    padding: 25px;
+    background-color: rgb(0, 51, 218);
+    box-shadow: 0px 0px 25px rgb(74, 107, 199);
+    color: white;
+    display: flex;
+}
+
+.list{
+    list-style-type: none;
+    padding-left: 0px;
+}

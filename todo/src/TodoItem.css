@@ -1,0 +1,25 @@
+.flexToEnd{
+    margin-left: auto;
+    padding: 25px;
+    cursor: pointer;
+}
+
+.pen{
+    margin-right: 15px;
+}
+
+.listItem {
+    background-color: rgb(255, 255, 255);
+    background-size: 50px;
+    margin-bottom: 10px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    color: black;
+}
+
+.btn{
+    transform: translateY(-2px);
+    margin-left: 10px;
+}
